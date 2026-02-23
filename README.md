@@ -19,6 +19,7 @@ A sleek, self-hosted web tool to **instantly validate API keys** for 15+ provide
 - **Minimal Footprint** — lightweight requests (e.g., `max_tokens: 5`) to keep costs near zero
 
 ---
+<img width="1920" height="889" alt="image" src="https://github.com/user-attachments/assets/1110c90e-a4c4-4fc7-8568-2ef5a2b00e93" />
 
 ## Supported Providers
 
